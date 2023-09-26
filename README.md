@@ -71,7 +71,7 @@ The analytics can help the Chicago Police Department to identify:
 
 
 ## Getting Started with Project
-- Download the dataset from: https://www.kaggle.com/datasets/chicago/chicago-crime
+- Download the dataset from: https://www.kaggle.com/datasets/currie32/crimes-in-chicago
 - Install the requirements 
 ```bash
 pip install -r requirements.txt
